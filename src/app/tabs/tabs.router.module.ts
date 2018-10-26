@@ -22,8 +22,8 @@ const routes: Routes = [
         component: HomePage
       },
       {
-        path: 'about',
-        outlet: 'about',
+        path: 'gallery',
+        outlet: 'gallery',
         component: AboutPage
       },
       {
